@@ -37,6 +37,7 @@ A curated list of awesome Pomodoro technique tools, resources, and related proje
 
 - [Pomo](https://github.com/kevinschoon/pomo) - Simple CLI Pomodoro timer
 - [Pomodoro-cli](https://github.com/caarlos0/pomodoro) - Simple Pomodoro timer for your terminal
+- [PomodoroFactory](https://github.com/anschnapp/pomodorofactory) - Start. Focus. Celebrate. Repeat. A visual Go terminal Pomodoro timer with ASCII art factory animations, celebration sounds, and multiple buildable products - new ASCII art can be easily added by contribution
 
 ## Browser Extensions
 
