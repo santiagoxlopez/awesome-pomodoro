@@ -20,6 +20,7 @@ A curated list of awesome Pomodoro technique tools, resources, and related proje
 - [Pomello](https://pomelloapp.com/) - Pomodoro timer integrated with Trello (Windows, macOS)
 - [Tadam](https://tadamapp.com/) - Elegant and simple Pomodoro timer for Mac
 - [Dozer](https://github.com/aweary/dozer) - Simple Pomodoro timer for Windows
+- [Super Productivity](https://super-productivity.com/) - Open-source task manager with Pomodoro timer and time tracking (Windows, macOS, Linux)
 
 ## Mobile Apps
 
