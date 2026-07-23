@@ -32,6 +32,7 @@ A curated list of awesome Pomodoro technique tools, resources, and related proje
 - [Pomofocus](https://pomofocus.io/) - Simple and clean Pomodoro timer
 - [Marinara Timer](https://marinara-timer.com/) - Flexible Pomodoro timer with audio notifications
 - [Pomodor](https://pomodor.app/) - Graphical and customizable Pomodoro timer
+- [CountLink](https://countlink.app/pomodoro-timer) - Shareable Pomodoro timer — the countdown is encoded in the link itself, so everyone who opens it sees the identical timer in sync, no account or server involved
 
 ## CLI Tools
 
