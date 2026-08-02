@@ -32,6 +32,7 @@ A curated list of awesome Pomodoro technique tools, resources, and related proje
 - [Pomofocus](https://pomofocus.io/) - Simple and clean Pomodoro timer
 - [Marinara Timer](https://marinara-timer.com/) - Flexible Pomodoro timer with audio notifications
 - [Pomodor](https://pomodor.app/) - Graphical and customizable Pomodoro timer
+- [Pomodoro Studio](https://github.com/1himanshu1804442/pomodoro-puzzle-studio) - Distraction-free fullscreen Pomodoro timer featuring visual puzzle grid rewards and an embedded 6-channel Lofi radio console by [@1himanshu1804442](https://github.com/1himanshu1804442)
 
 ## CLI Tools
 
