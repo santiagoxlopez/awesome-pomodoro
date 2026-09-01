@@ -29,6 +29,7 @@ A curated list of awesome Pomodoro technique tools, resources, and related proje
 
 ## Web Apps
 
+- [devfocus](https://thedarkbeet.github.io/devfocus/) - Terminal-styled focus workspace combining a Pomodoro timer with Spotify and YouTube embeds
 - [Pomofocus](https://pomofocus.io/) - Simple and clean Pomodoro timer
 - [Marinara Timer](https://marinara-timer.com/) - Flexible Pomodoro timer with audio notifications
 - [Pomodor](https://pomodor.app/) - Graphical and customizable Pomodoro timer
