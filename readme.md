@@ -30,6 +30,7 @@ A curated list of awesome Pomodoro technique tools, resources, and related proje
 ## Web Apps
 
 - [Pomofocus](https://pomofocus.io/) - Simple and clean Pomodoro timer
+- [Zeno](https://zenochessclock.com/pomodoro) - Free Pomodoro timer with customizable focus/break lengths, no sign-up required.
 - [Marinara Timer](https://marinara-timer.com/) - Flexible Pomodoro timer with audio notifications
 - [Pomodor](https://pomodor.app/) - Graphical and customizable Pomodoro timer
 
