@@ -32,6 +32,7 @@ A curated list of awesome Pomodoro technique tools, resources, and related proje
 - [Pomofocus](https://pomofocus.io/) - Simple and clean Pomodoro timer
 - [Marinara Timer](https://marinara-timer.com/) - Flexible Pomodoro timer with audio notifications
 - [Pomodor](https://pomodor.app/) - Graphical and customizable Pomodoro timer
+- [PomoMons](https://pomomons.io) - Pomodoro timer with a creature-collecting twist — catch a monster after every focus session and build your collection
 
 ## CLI Tools
 
