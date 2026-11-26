@@ -25,6 +25,7 @@ A curated list of awesome Pomodoro technique tools, resources, and related proje
 
 - [Forest](https://www.forestapp.cc/) - Stay focused, be present (iOS, Android)
 - [Focus To-Do](https://www.focustodo.cn/) - Pomodoro Timer & To Do List (iOS, Android)
+- [NoMo](https://apps.apple.com/app/id6755971896) - Pomodoro timer with selective app blocking and a village that grows as you focus (iOS)
 - [Bear Focus Timer](https://apps.apple.com/us/app/bear-focus-timer/id1328806990) - Minimalist timer with white noise (iOS)
 
 ## Web Apps
